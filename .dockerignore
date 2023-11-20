@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+.cache
+.pycache/
+*.log
+*.tmp
+
+# Test and documentation files
+tests/
+docs/
+
+# Git and version control
+.git/
+.gitignore
+.env
+.dockerignore
+
+# Virtual environment
+venv/
+.env
+*.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
